@@ -180,12 +180,12 @@
                                     </div>
                                 </div>
                                 <div class="form-group">
-                                        <select class="custom-select" required>
+                                        <select class="custom-select" name="institution_type" required>
                                           <option value="">Select Tertiary Institution</option>
-                                          <option value="University" name="institution_type">University</option>
-                                          <option value="Polytechnic" name="institution_type">Polytechnic</option>
-                                          <option value="College of Education" name="institution_type">College of Education</option>
-                                          <option value="Innovation Entreprise Institutions" name="institution_type">Innovation Entreprise Institutions</option>
+                                          <option value="University" >University</option>
+                                          <option value="Polytechnic" >Polytechnic</option>
+                                          <option value="College of Education" >College of Education</option>
+                                          <option value="Innovation Entreprise Institutions" >Innovation Entreprise Institutions</option>
                                         </select>
                                         <div class="invalid-feedback">Example invalid custom select feedback</div>
                                     </div>

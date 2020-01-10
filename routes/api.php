@@ -14,7 +14,7 @@ use Illuminate\Http\Request;
 */
 
 
-Route::get('courses/{coursename}/{type-institution}/{city}/{state}', 'API\ApiCourseController@getCourses');
+Route::get('courses', 'API\ApiCourseController@getCourses');
 
 
 Route::middleware('auth:api')->get('/user', function (Request $request) {

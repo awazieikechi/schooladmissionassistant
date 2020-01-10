@@ -69,7 +69,7 @@ Add New Course
 <th> </th>
 <th>Course Name</th> 
 <th>Course Fees</th>
-<th>Post UTME Cutoff Mark</th>
+<th>Cutoff Mark</th>
 <th>SSCE Requirements</th>
 <th></th>
 </tr>
